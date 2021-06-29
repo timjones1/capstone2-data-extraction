@@ -2,7 +2,7 @@
 
 The second capstone project that I completed for Wavelength.law involved exrtracting discrete scturcutred data from free text describing various aspects of employment contracts such as holiday entitlement and hours of work.
 
-my full project report is available here: 
+My project report is available [here](Capstone%202%20Project%20Report%20for%20Wavelength.law.pdf): 
 
 ### Installation requirements
 

@@ -1,6 +1,6 @@
 ### Cambridge Spark Applied Data Science Capstone Part 2 - Employment Contract Information Extraction for Wavelength.law
 
-My second capstone project for Wavelength.law involved exrtracting discrete scturcutred data from free text describing various aspects of employment contracts such as holiday entitlement and hours of work.
+My second capstone project for Wavelength.law involved extracting discrete scturcutred data from free text describing various aspects of employment contracts such as holiday entitlement and hours of work.
 
 My project report is available [here](Capstone%202%20Project%20Report%20for%20Wavelength.law.pdf): 
 
